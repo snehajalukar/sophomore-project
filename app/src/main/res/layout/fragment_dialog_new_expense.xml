@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:gravity="center_horizontal"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/tv_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        style="@style/ExpenseTrackerTextView"
+        android:text="@string/add_new_expense"
+        android:textSize="@dimen/text_size_20"
+        android:layout_marginTop="@dimen/dimen_20dp" />
+
+    <Button
+        android:id="@+id/btn_date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/text_size_20"
+        android:textColor="@color/primary_dark"
+        android:layout_marginTop="@dimen/dimen_20dp"
+        style="?android:attr/borderlessButtonStyle"
+        android:elevation="@dimen/elevation_dp"/>
+
+    <Spinner
+        android:id="@+id/sp_categories"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/dimen_20dp"
+        android:layout_marginLeft="@dimen/dimen_20dp"
+        android:layout_marginRight="@dimen/dimen_20dp"
+        style="@style/ExpenseTrackerSpinner"/>
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <EditText
+            android:id="@+id/et_description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/optional_description"
+            android:layout_marginTop="@dimen/dimen_20dp"
+            android:maxLines="2"
+            android:layout_marginLeft="@dimen/dimen_20dp"
+            android:layout_marginRight="@dimen/dimen_20dp"
+            style="@style/ExpenseTrackerEditText"/>
+
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="@dimen/dimen_10_10dp"
+        android:layout_marginTop="@dimen/dimen_10dp"
+        android:layout_marginRight="@dimen/dimen_20dp"
+        android:layout_marginEnd="@dimen/dimen_20dp"
+        android:layout_gravity="end"
+        android:layout_height="wrap_content" >
+        <EditText
+            android:id="@+id/et_total"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:singleLine="true"
+            android:gravity="center"
+            android:inputType="numberDecimal"
+            style="@style/ExpenseTrackerEditText"
+            android:hint="@string/total"/>
+
+    </android.support.design.widget.TextInputLayout>
+
+    <LinearLayout
+        android:layout_marginTop="@dimen/dimen_20dp"
+        android:layout_marginBottom="@dimen/dimen_20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btn_cancel"
+            android:layout_width="@dimen/dimen_12_10dp"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            style="@style/ExpenseTrackerButton"
+            android:text="@string/cancel"/>
+
+        <Button
+            android:id="@+id/btn_save"
+            android:layout_marginLeft="@dimen/dimen_10dp"
+            android:layout_marginStart="@dimen/dimen_10dp"
+            android:layout_width="@dimen/dimen_12_10dp"
+            android:gravity="center"
+            android:layout_height="wrap_content"
+            style="@style/ExpenseTrackerButton"
+            android:text="@string/save"/>
+
+    </LinearLayout>
+
+</LinearLayout>
