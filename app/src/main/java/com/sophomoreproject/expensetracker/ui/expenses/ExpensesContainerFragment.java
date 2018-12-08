@@ -30,11 +30,6 @@ import com.sophomoreproject.expensetracker.utils.ExpensesManager;
 import java.util.Arrays;
 import java.util.List;
 
-
-/**
- * @author  pcarrillo on 16/10/2015.
- */
-
 public class ExpensesContainerFragment extends MainFragment implements ExpensesFragment.IExpenseContainerListener {
 
     public static final int RQ_NEW_EXPENSE = 1001;

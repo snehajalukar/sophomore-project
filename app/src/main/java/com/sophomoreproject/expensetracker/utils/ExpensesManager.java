@@ -15,9 +15,6 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
-/**
- * @author  pcarrillo on 16/10/2015.
- */
 public class ExpensesManager {
 
     private List<Expense> mExpensesList = new ArrayList<>();
