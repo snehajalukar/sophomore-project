@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.sophomoreproject.expensetracker"
+    android:versionCode="12"
+    android:versionName="1.7" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="26" />
+
+    <!-- <uses-permission android:name="android.permission.INTERNET" /> -->
+    <!-- <uses-permission android:name="android.permission.GET_ACCOUNTS" /> -->
+    <!-- <uses-permission android:name="android.permission.USE_CREDENTIALS" /> -->
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:name="com.sophomoreproject.expensetracker.ExpenseTrackerApp"
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/AppTheme.NoActionBar" >
+        <activity
+            android:name="com.sophomoreproject.expensetracker.ui.MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar.TransparentStatusBar" >
+        </activity>
+        <activity
+            android:name="com.sophomoreproject.expensetracker.ui.login.LoginActivity"
+            android:configChanges="orientation"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar.TransparentStatusBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.sophomoreproject.expensetracker.ui.settings.SettingsActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.sophomoreproject.expensetracker.ui.expenses.ExpenseDetailActivity"
+            android:label="@string/title_activity_expense_detail" >
+        </activity>
+        <activity android:name="com.sophomoreproject.expensetracker.ui.reminders.NewReminderActivity" >
+        </activity>
+
+        <receiver android:name="com.sophomoreproject.expensetracker.receivers.AlarmReceiver" >
+        </receiver>
+        <receiver
+            android:name="com.sophomoreproject.expensetracker.receivers.AlarmsSystemBooted"
+            android:enabled="false" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="com.sophomoreproject.expensetracker.widget.ExpensesWidgetProvider"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+                <action android:name="com.sophomoreproject.expensetracker.widget.ExpensesWidgetService.UPDATE_WIDGET" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/widget_provider" />
+        </receiver>
+
+        <service
+            android:name="com.sophomoreproject.expensetracker.widget.ExpensesWidgetService"
+            android:permission="android.permission.BIND_REMOTEVIEWS" />
+
+        <activity
+            android:name="com.sophomoreproject.expensetracker.ui.help.HelpActivity"
+            android:label="@string/title_activity_help"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+
+        <meta-data
+            android:name="android.support.VERSION"
+            android:value="26.1.0" />
+        <meta-data
+            android:name="android.arch.lifecycle.VERSION"
+            android:value="27.0.0-SNAPSHOT" />
+    </application>
+
+</manifest>

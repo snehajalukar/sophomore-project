@@ -1,0 +1,279 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:2:1-81:12
+INJECTED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:2:1-81:12
+INJECTED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:2:1-81:12
+INJECTED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:2:1-81:12
+MERGED from [com.android.support:gridlayout-v7:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/gridlayout-v7-26.1.0.aar/76847fd5d1aea3058f0109c5c1bb53ba/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:design:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/4042c29cb9857add08918bf89c7fd41c/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/afdc3f65c02780fdb4351597d7268c03/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/c86ce753a10294550f13e5901b49a65e/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/45fce02a5ad6c3a54bb51cb341524e51/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/5a5defbb715b16e2e431af0eb471a7c7/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/feb6060165c255bf574e4893b81d9c3d/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/a71b81c96e5d8b6d2cde826be0d2a3a0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/b0436ef1ecf141a9b1322d10304b7e32/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/ce8b0c817bd89cd284a8413529dadb22/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/c3caa62b2c39a62da2968917e1e6f5a6/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/61ae575a4edffeb9260d85de9c6db454/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/8775a3cb6d72d7b4db07c0c14faf52d0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/73116eef51e7b4465e71608111e1ae84/AndroidManifest.xml:17:1-31:12
+MERGED from [fr.avianey.com.viewpagerindicator:library:2.4.1] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/library-2.4.1.aar/3d3f5d5f9b2b0cba1a40ac5439152ca1/AndroidManifest.xml:3:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/7ecc64e9a85d245dfcdeabf0de895eb0/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:2:1-81:12
+INJECTED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:2:1-81:12
+INJECTED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:2:1-81:12
+	package
+		ADDED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:4:5-50
+		INJECTED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:2:1-81:12
+		INJECTED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:2:1-81:12
+		INJECTED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:9:22-78
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:10:22-78
+application
+ADDED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:12:5-79:19
+MERGED from [com.android.support:gridlayout-v7:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/gridlayout-v7-26.1.0.aar/76847fd5d1aea3058f0109c5c1bb53ba/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:gridlayout-v7:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/gridlayout-v7-26.1.0.aar/76847fd5d1aea3058f0109c5c1bb53ba/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:design:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/4042c29cb9857add08918bf89c7fd41c/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/4042c29cb9857add08918bf89c7fd41c/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/afdc3f65c02780fdb4351597d7268c03/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/afdc3f65c02780fdb4351597d7268c03/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/c86ce753a10294550f13e5901b49a65e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/c86ce753a10294550f13e5901b49a65e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/45fce02a5ad6c3a54bb51cb341524e51/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/45fce02a5ad6c3a54bb51cb341524e51/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/5a5defbb715b16e2e431af0eb471a7c7/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/5a5defbb715b16e2e431af0eb471a7c7/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/feb6060165c255bf574e4893b81d9c3d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/feb6060165c255bf574e4893b81d9c3d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/a71b81c96e5d8b6d2cde826be0d2a3a0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/a71b81c96e5d8b6d2cde826be0d2a3a0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/b0436ef1ecf141a9b1322d10304b7e32/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/b0436ef1ecf141a9b1322d10304b7e32/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/ce8b0c817bd89cd284a8413529dadb22/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/ce8b0c817bd89cd284a8413529dadb22/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/c3caa62b2c39a62da2968917e1e6f5a6/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/c3caa62b2c39a62da2968917e1e6f5a6/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/61ae575a4edffeb9260d85de9c6db454/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/61ae575a4edffeb9260d85de9c6db454/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/8775a3cb6d72d7b4db07c0c14faf52d0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/8775a3cb6d72d7b4db07c0c14faf52d0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/73116eef51e7b4465e71608111e1ae84/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/73116eef51e7b4465e71608111e1ae84/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/7ecc64e9a85d245dfcdeabf0de895eb0/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/7ecc64e9a85d245dfcdeabf0de895eb0/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:16:9-41
+	tools:ignore
+		ADDED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:19:9-48
+	android:icon
+		ADDED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:18:9-52
+	android:name
+		ADDED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:13:9-42
+activity#com.sophomoreproject.expensetracker.ui.MainActivity
+ADDED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:20:9-24:20
+	android:label
+		ADDED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:22:13-45
+	android:theme
+		ADDED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:23:13-77
+	android:name
+		ADDED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:21:13-44
+activity#com.sophomoreproject.expensetracker.ui.login.LoginActivity
+ADDED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:25:9-36:20
+	android:screenOrientation
+		ADDED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:29:13-49
+	android:label
+		ADDED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:28:13-45
+	android:configChanges
+		ADDED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:27:13-48
+	android:theme
+		ADDED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:30:13-77
+	android:name
+		ADDED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:26:13-51
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:31:13-35:29
+action#android.intent.action.MAIN
+ADDED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:34:27-74
+activity#com.sophomoreproject.expensetracker.ui.settings.SettingsActivity
+ADDED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:37:9-40:20
+	android:label
+		ADDED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:39:13-45
+	android:name
+		ADDED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:38:13-57
+activity#com.sophomoreproject.expensetracker.ui.expenses.ExpenseDetailActivity
+ADDED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:41:9-44:20
+	android:label
+		ADDED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:43:13-66
+	android:name
+		ADDED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:42:13-62
+activity#com.sophomoreproject.expensetracker.ui.reminders.NewReminderActivity
+ADDED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:45:9-46:20
+	android:name
+		ADDED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:45:19-67
+receiver#com.sophomoreproject.expensetracker.receivers.AlarmReceiver
+ADDED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:48:9-49:20
+	android:name
+		ADDED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:48:19-58
+receiver#com.sophomoreproject.expensetracker.receivers.AlarmsSystemBooted
+ADDED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:50:9-56:20
+	android:enabled
+		ADDED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:51:13-57
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:53:13-55:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:54:17-79
+	android:name
+		ADDED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:54:25-76
+receiver#com.sophomoreproject.expensetracker.widget.ExpensesWidgetProvider
+ADDED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:57:9-68:20
+	android:label
+		ADDED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:59:13-45
+	android:name
+		ADDED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:58:13-58
+intent-filter#action:name:android.appwidget.action.APPWIDGET_UPDATE+action:name:com.sophomoreproject.expensetracker.widget.ExpensesWidgetService.UPDATE_WIDGET
+ADDED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:60:13-63:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:61:17-84
+	android:name
+		ADDED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:61:25-81
+action#com.sophomoreproject.expensetracker.widget.ExpensesWidgetService.UPDATE_WIDGET
+ADDED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:62:17-121
+	android:name
+		ADDED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:62:25-118
+meta-data#android.appwidget.provider
+ADDED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:65:13-67:59
+	android:resource
+		ADDED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:67:17-56
+	android:name
+		ADDED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:66:17-58
+service#com.sophomoreproject.expensetracker.widget.ExpensesWidgetService
+ADDED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:70:9-72:72
+	android:permission
+		ADDED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:72:13-69
+	android:name
+		ADDED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:71:13-57
+activity#com.sophomoreproject.expensetracker.ui.help.HelpActivity
+ADDED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:74:9-78:20
+	android:label
+		ADDED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:76:13-56
+	android:theme
+		ADDED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:77:13-56
+	android:name
+		ADDED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml:75:13-49
+uses-sdk
+INJECTED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml
+INJECTED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:gridlayout-v7:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/gridlayout-v7-26.1.0.aar/76847fd5d1aea3058f0109c5c1bb53ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/gridlayout-v7-26.1.0.aar/76847fd5d1aea3058f0109c5c1bb53ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/4042c29cb9857add08918bf89c7fd41c/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/4042c29cb9857add08918bf89c7fd41c/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/afdc3f65c02780fdb4351597d7268c03/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/afdc3f65c02780fdb4351597d7268c03/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/c86ce753a10294550f13e5901b49a65e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/c86ce753a10294550f13e5901b49a65e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/45fce02a5ad6c3a54bb51cb341524e51/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/45fce02a5ad6c3a54bb51cb341524e51/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/5a5defbb715b16e2e431af0eb471a7c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/5a5defbb715b16e2e431af0eb471a7c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/feb6060165c255bf574e4893b81d9c3d/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/feb6060165c255bf574e4893b81d9c3d/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/a71b81c96e5d8b6d2cde826be0d2a3a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/a71b81c96e5d8b6d2cde826be0d2a3a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/b0436ef1ecf141a9b1322d10304b7e32/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/b0436ef1ecf141a9b1322d10304b7e32/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/ce8b0c817bd89cd284a8413529dadb22/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/ce8b0c817bd89cd284a8413529dadb22/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/c3caa62b2c39a62da2968917e1e6f5a6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/c3caa62b2c39a62da2968917e1e6f5a6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/61ae575a4edffeb9260d85de9c6db454/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/61ae575a4edffeb9260d85de9c6db454/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/8775a3cb6d72d7b4db07c0c14faf52d0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/8775a3cb6d72d7b4db07c0c14faf52d0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/73116eef51e7b4465e71608111e1ae84/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/73116eef51e7b4465e71608111e1ae84/AndroidManifest.xml:21:5-23:58
+MERGED from [fr.avianey.com.viewpagerindicator:library:2.4.1] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/library-2.4.1.aar/3d3f5d5f9b2b0cba1a40ac5439152ca1/AndroidManifest.xml:8:5-43
+MERGED from [fr.avianey.com.viewpagerindicator:library:2.4.1] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/library-2.4.1.aar/3d3f5d5f9b2b0cba1a40ac5439152ca1/AndroidManifest.xml:8:5-43
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/7ecc64e9a85d245dfcdeabf0de895eb0/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/7ecc64e9a85d245dfcdeabf0de895eb0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml
+INJECTED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/4042c29cb9857add08918bf89c7fd41c/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shriyashjalukar/Desktop/ExpenseTracker/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:gridlayout-v7:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/gridlayout-v7-26.1.0.aar/76847fd5d1aea3058f0109c5c1bb53ba/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:design:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/4042c29cb9857add08918bf89c7fd41c/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:design:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/4042c29cb9857add08918bf89c7fd41c/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/afdc3f65c02780fdb4351597d7268c03/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/afdc3f65c02780fdb4351597d7268c03/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/c86ce753a10294550f13e5901b49a65e/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/c86ce753a10294550f13e5901b49a65e/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/45fce02a5ad6c3a54bb51cb341524e51/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/45fce02a5ad6c3a54bb51cb341524e51/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/5a5defbb715b16e2e431af0eb471a7c7/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/5a5defbb715b16e2e431af0eb471a7c7/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/feb6060165c255bf574e4893b81d9c3d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/feb6060165c255bf574e4893b81d9c3d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/a71b81c96e5d8b6d2cde826be0d2a3a0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/a71b81c96e5d8b6d2cde826be0d2a3a0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/b0436ef1ecf141a9b1322d10304b7e32/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/b0436ef1ecf141a9b1322d10304b7e32/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/ce8b0c817bd89cd284a8413529dadb22/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/ce8b0c817bd89cd284a8413529dadb22/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/c3caa62b2c39a62da2968917e1e6f5a6/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/c3caa62b2c39a62da2968917e1e6f5a6/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/61ae575a4edffeb9260d85de9c6db454/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/61ae575a4edffeb9260d85de9c6db454/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/8775a3cb6d72d7b4db07c0c14faf52d0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/8775a3cb6d72d7b4db07c0c14faf52d0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/73116eef51e7b4465e71608111e1ae84/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/73116eef51e7b4465e71608111e1ae84/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:gridlayout-v7:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/gridlayout-v7-26.1.0.aar/76847fd5d1aea3058f0109c5c1bb53ba/AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:gridlayout-v7:26.1.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/gridlayout-v7-26.1.0.aar/76847fd5d1aea3058f0109c5c1bb53ba/AndroidManifest.xml:24:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/7ecc64e9a85d245dfcdeabf0de895eb0/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/7ecc64e9a85d245dfcdeabf0de895eb0/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/shriyashjalukar/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/7ecc64e9a85d245dfcdeabf0de895eb0/AndroidManifest.xml:26:13-58
